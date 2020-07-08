@@ -6,3 +6,9 @@ body {
     font-family: sans-serif;
     color:red;
 }
+
+.dashoard {
+    background:red;
+    margin: 0;
+    padding: 0;
+}
